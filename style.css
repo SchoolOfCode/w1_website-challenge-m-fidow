@@ -41,7 +41,7 @@ html {
 .image {
   width: 400px;
   height: 500px;
-  background-image: url(/kelly/images/Image\ from\ iOS.jpg);
+  background-image: url(images/Image\ from\ iOS.jpg);
   background-position: right;
   background-size: contain;
   background-repeat: no-repeat;
